@@ -1,0 +1,17 @@
+
+# Headings 제목
+Syntax : "# [word] or [phrase]" , "# [단어] 혹은 [문장]" 
+To create a heading, add (#) in front of a word or phrase.
+제목을 만들기 위해서 단어나 문장의 앞에 (#)을 붙일 것.
+
+The more number of symbols(In this case, #), the smaller the string.(maximum 6 #)
+기호의 수가 많을수록(이 경우, #) 문자열은 작아진다.
+
+### example)
+# Level 1
+## Level 2
+### Level 3
+#### Level 4
+##### Level 5
+###### Level 6
+
